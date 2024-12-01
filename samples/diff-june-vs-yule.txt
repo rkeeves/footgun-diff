@@ -1,0 +1,13 @@
+   {
+-    fname: 'June'
+-    lname: 'Mindy'
++    lname: null
+     loves: [
+-      0: 'Long walks'
++      0: 'Fingerling Potatoes'
+-      2: 'Wine'
++      2: 'Twitch'
+     ]
++    nick: 'Yule'
++    twitch: 'F1r3Puma142'
+   }
