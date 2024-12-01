@@ -4,7 +4,7 @@ We are going to diff JS objects and primitives, based just on equality.
 
 ## Intro
 
-Let's compare `June` and `Jule`!
+Let's compare `June` and `Yule`!
 
 Let `June` and `Yule` be:
 
@@ -23,7 +23,7 @@ Let `June` and `Yule` be:
 
 _This starting example is in JSON because it is easy to ser/deserialize..._
 
-What are the differences between `June` and `Jule`? Let's do:
+What are the differences between `June` and `Yule`? Let's do:
 
 ```shell
 npm i
